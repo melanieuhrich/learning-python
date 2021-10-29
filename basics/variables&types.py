@@ -3,17 +3,17 @@
     # -- every variable in python is an object
 
 # defining an integer
-    myint = 7
+myint = 7
 
 # defining a floating point number
-    myfloat = 7.0
-    # OR
-    myfloat = float(7)
+myfloat = 7.0
+# OR
+myfloat = float(7)
 
 # strings
-    mystring = 'hello'
-    # OR
-    mystring = "hello"
+mystring = 'hello'
+# OR
+mystring = "hello"
 
 # assigning several variables simultaneously 
 a, b = 3, 4 
